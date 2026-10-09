@@ -1,0 +1,21 @@
+quiz_score,previous_score,study_time,revision_count,topic_difficulty,learning_status
+95,92,60,5,2,Mastered
+88,84,55,4,2,Mastered
+82,78,50,4,3,Mastered
+76,70,45,3,3,Mastered
+68,65,40,3,3,Needs Practice
+61,58,35,3,4,Needs Practice
+55,60,30,2,4,Needs Practice
+48,52,30,2,4,Needs Practice
+42,50,25,2,5,Needs Attention
+35,40,25,1,5,Needs Attention
+28,35,20,1,5,Needs Attention
+20,25,15,1,5,Needs Attention
+90,86,55,4,2,Mastered
+73,70,40,3,3,Needs Practice
+58,62,30,2,4,Needs Practice
+45,50,25,1,5,Needs Attention
+80,75,50,4,3,Mastered
+67,64,35,3,4,Needs Practice
+52,55,25,2,4,Needs Attention
+38,42,20,1,5,Needs Attention
